@@ -23,7 +23,10 @@ const cursors = {
   default: ["kiara mouse", 0, 0],
   arrow: ["kiara mouse", 0, 0],
   left_ptr: ["kiara mouse", 0, 0],
-  // ["kiara", 5, 5] ["kiara sword", 0, 0]
+  // ["kiara sword", 0, 0]
+
+  cross: ["kiara", 5, 5],
+  crosshair: ["kiara", 5, 5],
 
   left_ptr_help: ["kiaraquestion", 0, 0],
   whats_this: ["kiaraquestion", 0, 0],
