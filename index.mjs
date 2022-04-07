@@ -15,15 +15,12 @@ Name=Takanashi Kiara (art: @growowling)
 Comment=A set of cursors for X featuring Takanashi Kiara
 Inherits=breeze_cursors`;
 
-/*
-  any commented lines here are where multiple cursors
-  could work, and thats entirely personal preference.
-*/
 const cursors = {
   default: ["kiara mouse", 0, 0],
   arrow: ["kiara mouse", 0, 0],
   left_ptr: ["kiara mouse", 0, 0],
-  // ["kiara sword", 0, 0]
+
+  pencil: ["kiara sword", 0, 0],
 
   cross: ["kiara", 5, 5],
   crosshair: ["kiara", 5, 5],
@@ -69,14 +66,11 @@ const cursors = {
   pointing_hand: ["kiara finger", 10, 3],
   hand1: ["kiara finger", 10, 3],
   hand2: ["kiara finger", 10, 3],
-  // ["kiara finger2", 10, 3],
 
-  progress: ["kiara finger3", 10, 3],
-  // ["kiarasleep2", 0, 0],
+  progress: ["kiarasleep2", 0, 0],
 
   wait: ["kiarasleep", 16, 18],
   watch: ["kiarasleep", 16, 18],
-  // ["kiarasleep2", 0, 0],
 
   xterm: ["kiara text", 3, 8],
   text: ["kiara text", 3, 8],
