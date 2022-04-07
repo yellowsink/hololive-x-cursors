@@ -1,0 +1,8 @@
+# as normal
+node_modules
+# generated at runtime by script
+png
+out
+# yolo
+pnpm-lock.yaml
+package-lock.json

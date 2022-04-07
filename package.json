@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "convert": "\"$npm_execpath\" i && zx index.mjs",
+    "clean": "rm -rf png out"
+  },
+  "devDependencies": {
+    "zx": "^6.0.7"
+  }
+}
