@@ -1,5 +1,6 @@
 # as normal
 node_modules
+.idea
 # generated at runtime by script
 png
 out

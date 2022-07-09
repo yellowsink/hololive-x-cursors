@@ -1,9 +1,9 @@
 {
   "scripts": {
-    "convert": "\"$npm_execpath\" i && zx index.mjs",
-    "clean": "rm -rf png out"
+    "convert": "\"$npm_execpath\" i && ./build_all.sh",
+    "clean": "rm -rf cursors/*/png cursors/*/out"
   },
   "devDependencies": {
-    "zx": "^6.0.7"
+    "zx": "^7.0.7"
   }
 }

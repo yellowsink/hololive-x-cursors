@@ -1,0 +1,82 @@
+{
+  "id": "takanashi-cursors",
+  "curSize": 32,
+  "animDelay": 100,
+  "//": "feel free to modify Inherits",
+  "friendlyInfo": {
+    "Name": "Takanashi Kiara (art: @growowling)",
+    "Comment": "A set of cursors for X featuring Takanashi Kiara",
+    "Inherits": "breeze_cursors"
+  },
+
+  "cursors": {
+    "default": ["kiara mouse", 0, 0],
+    "arrow": ["kiara mouse", 0, 0],
+    "left_ptr": ["kiara mouse", 0, 0],
+    "top_left_arrow": ["kiara mouse", 0, 0],
+
+    "pencil": ["kiara sword", 0, 0],
+
+    "cross": ["kiara", 5, 5],
+    "crosshair": ["kiara", 5, 5],
+    "cross_reverse": ["kiara", 5, 5],
+    "diamond_cross": ["kiara", 5, 5],
+
+    "left_ptr_help": ["kiaraquestion", 0, 0],
+    "whats_this": ["kiaraquestion", 0, 0],
+    "question_arrow": ["kiaraquestion", 0, 0],
+    "help": ["kiaraquestion", 0, 0],
+
+    "nw-resize": ["kiarabird", 15, 15],
+    "nwse-resize": ["kiarabird", 15, 15],
+    "se-resize": ["kiarabird", 15, 15],
+    "size_fdiag": ["kiarabird", 15, 15],
+
+    "ne-resize": ["kiarabird", 15, 15],
+    "nesw-resize": ["kiarabird", 15, 15],
+    "sw-resize": ["kiarabird", 15, 15],
+    "size_bdiag": ["kiarabird2", 15, 15],
+
+    "n-resize": ["kiarabird3", 15, 15],
+    "s-resize": ["kiarabird3", 15, 15],
+    "ns-resize": ["kiarabird3", 15, 15],
+    "size_ver": ["kiarabird3", 15, 15],
+    "sb_v_double_arrow": ["kiarabird3", 15, 15],
+
+    "e-resize": ["kiarabird3", 15, 15],
+    "w-resize": ["kiarabird3", 15, 15],
+    "ew-resize": ["kiarabird3", 15, 15],
+    "size_hor": ["kiarabird3", 15, 15],
+    "sb_h_double_arrow": ["kiarabird4", 15, 15],
+
+    "fleur": ["kiarabird5", 15, 15],
+    "size_all": ["kiarabird5", 15, 15],
+    "grabbing": ["kiarabird5", 15, 15],
+    "move": ["kiarabird5", 15, 15],
+    "dnd-move": ["kiarabird5", 15, 15],
+    "dnd-none": ["kiarabird5", 15, 15],
+    "closedhand": ["kiarabird5", 15, 15],
+    "openhand": ["kiarabird5", 15, 15],
+    "grab": ["kiarabird5", 15, 15],
+
+    "pointer": ["kiara finger", 10, 3],
+    "pointing_hand": ["kiara finger", 10, 3],
+    "hand1": ["kiara finger", 10, 3],
+    "hand2": ["kiara finger", 10, 3],
+
+    "progress": ["kiarasleep2", 0, 0],
+
+    "wait": ["kiarasleep", 16, 18],
+    "watch": ["kiarasleep", 16, 18],
+
+    "xterm": ["kiara text", 3, 8],
+    "text": ["kiara text", 3, 8],
+    "ibeam": ["kiara text", 3, 8],
+
+    "not-allowed": ["kiara x", 15, 24],
+    "no-drop": ["kiara x", 15, 24],
+    "circle": ["kiara x", 15, 24],
+    "crossed_circle": ["kiara x", 15, 24],
+    "forbidden": ["kiara x", 15, 24]
+  }
+}
