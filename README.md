@@ -7,6 +7,9 @@ A set of cursors for X featuring Hololive characters.
 - Takanashi Kiara: [Drawn by @growowling](https://twitter.com/growowling/status/1510479966491725829),
   converted [with permission](https://twitter.com/growowling/status/1510743060346728451).
 
+- Gawr Gura: [Drawn by @growowling](https://twitter.com/growowling/status/1545715261504122880),
+  converted [with permission](https://twitter.com/growowling/status/1545883160042278912).
+
 ![Preview gif](https://raw.githubusercontent.com/yellowsink/takanashi-x-cursors/master/preview.gif)
 
 ## Usage

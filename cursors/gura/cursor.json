@@ -1,0 +1,82 @@
+{
+  "id": "gura-cursors",
+  "curSize": 32,
+  "animDelay": 100,
+  "//": "feel free to modify Inherits",
+  "friendlyInfo": {
+    "Name": "Gawr Gura (art: @growowling)",
+    "Comment": "A set of cursors for X featuring Gawr Gura",
+    "Inherits": "breeze_cursors"
+  },
+
+  "cursors": {
+    "default": ["gura mouse", 0, 0],
+    "arrow": ["gura mouse", 0, 0],
+    "left_ptr": ["gura mouse", 0, 0],
+    "top_left_arrow": ["gura mouse", 0, 0],
+
+    "pencil": ["gura pen", 0, 0],
+
+    "cross": ["gura +", 5, 5],
+    "crosshair": ["gura +", 5, 5],
+    "cross_reverse": ["gura +", 5, 5],
+    "diamond_cross": ["gura +", 5, 5],
+
+    "left_ptr_help": ["gura question", 0, 0],
+    "whats_this": ["gura question", 0, 0],
+    "question_arrow": ["gura question", 0, 0],
+    "help": ["gura question", 0, 0],
+
+    "nw-resize": ["gura arrow", 15, 15],
+    "nwse-resize": ["gura arrow", 15, 15],
+    "se-resize": ["gura arrow", 15, 15],
+    "size_fdiag": ["gura arrow", 15, 15],
+
+    "ne-resize": ["gura arrow2", 15, 15],
+    "nesw-resize": ["gura arrow2", 15, 15],
+    "sw-resize": ["gura arrow2", 15, 15],
+    "size_bdiag": ["gura arrow2", 15, 15],
+
+    "n-resize": ["gura arrow3", 15, 15],
+    "s-resize": ["gura arrow3", 15, 15],
+    "ns-resize": ["gura arrow3", 15, 15],
+    "size_ver": ["gura arrow3", 15, 15],
+    "sb_v_double_arrow": ["gura arrow3", 15, 15],
+
+    "e-resize": ["gura arrow3", 15, 15],
+    "w-resize": ["gura arrow3", 15, 15],
+    "ew-resize": ["gura arrow3", 15, 15],
+    "size_hor": ["gura arrow3", 15, 15],
+    "sb_h_double_arrow": ["gura arrow4", 15, 15],
+
+    "fleur": ["gura arrow5", 15, 15],
+    "size_all": ["gura arrow5", 15, 15],
+    "grabbing": ["gura arrow5", 15, 15],
+    "move": ["gura arrow5", 15, 15],
+    "dnd-move": ["gura arrow5", 15, 15],
+    "dnd-none": ["gura arrow5", 15, 15],
+    "closedhand": ["gura arrow5", 15, 15],
+    "openhand": ["gura arrow5", 15, 15],
+    "grab": ["gura arrow5", 15, 15],
+
+    "pointer": ["gura finger", 10, 3],
+    "pointing_hand": ["gura finger", 10, 3],
+    "hand1": ["gura finger", 10, 3],
+    "hand2": ["gura finger", 10, 3],
+
+    "progress": ["gura sleep2", 0, 0],
+
+    "wait": ["gura sleep", 16, 18],
+    "watch": ["gura sleep", 16, 18],
+
+    "xterm": ["gura text", 3, 8],
+    "text": ["gura text", 3, 8],
+    "ibeam": ["gura text", 3, 8],
+
+    "not-allowed": ["gura X", 15, 24],
+    "no-drop": ["gura X", 15, 24],
+    "circle": ["gura X", 15, 24],
+    "crossed_circle": ["gura X", 15, 24],
+    "forbidden": ["gura X", 15, 24]
+  }
+}
